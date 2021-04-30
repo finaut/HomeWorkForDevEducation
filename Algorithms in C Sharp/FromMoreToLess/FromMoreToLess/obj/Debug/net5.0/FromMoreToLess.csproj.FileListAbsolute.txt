@@ -1,0 +1,16 @@
+C:\Users\Danil\source\repos\FromMoreToLess\FromMoreToLess\bin\Debug\net5.0\FromMoreToLess.exe
+C:\Users\Danil\source\repos\FromMoreToLess\FromMoreToLess\bin\Debug\net5.0\FromMoreToLess.deps.json
+C:\Users\Danil\source\repos\FromMoreToLess\FromMoreToLess\bin\Debug\net5.0\FromMoreToLess.runtimeconfig.json
+C:\Users\Danil\source\repos\FromMoreToLess\FromMoreToLess\bin\Debug\net5.0\FromMoreToLess.runtimeconfig.dev.json
+C:\Users\Danil\source\repos\FromMoreToLess\FromMoreToLess\bin\Debug\net5.0\FromMoreToLess.dll
+C:\Users\Danil\source\repos\FromMoreToLess\FromMoreToLess\bin\Debug\net5.0\ref\FromMoreToLess.dll
+C:\Users\Danil\source\repos\FromMoreToLess\FromMoreToLess\bin\Debug\net5.0\FromMoreToLess.pdb
+C:\Users\Danil\source\repos\FromMoreToLess\FromMoreToLess\obj\Debug\net5.0\FromMoreToLess.csprojAssemblyReference.cache
+C:\Users\Danil\source\repos\FromMoreToLess\FromMoreToLess\obj\Debug\net5.0\FromMoreToLess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danil\source\repos\FromMoreToLess\FromMoreToLess\obj\Debug\net5.0\FromMoreToLess.AssemblyInfoInputs.cache
+C:\Users\Danil\source\repos\FromMoreToLess\FromMoreToLess\obj\Debug\net5.0\FromMoreToLess.AssemblyInfo.cs
+C:\Users\Danil\source\repos\FromMoreToLess\FromMoreToLess\obj\Debug\net5.0\FromMoreToLess.csproj.CoreCompileInputs.cache
+C:\Users\Danil\source\repos\FromMoreToLess\FromMoreToLess\obj\Debug\net5.0\FromMoreToLess.dll
+C:\Users\Danil\source\repos\FromMoreToLess\FromMoreToLess\obj\Debug\net5.0\ref\FromMoreToLess.dll
+C:\Users\Danil\source\repos\FromMoreToLess\FromMoreToLess\obj\Debug\net5.0\FromMoreToLess.pdb
+C:\Users\Danil\source\repos\FromMoreToLess\FromMoreToLess\obj\Debug\net5.0\FromMoreToLess.genruntimeconfig.cache

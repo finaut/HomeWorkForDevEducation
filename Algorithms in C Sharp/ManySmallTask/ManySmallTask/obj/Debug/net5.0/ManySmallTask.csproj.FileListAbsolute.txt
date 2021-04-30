@@ -1,0 +1,16 @@
+C:\Users\Danil\source\resources\ManySmallTask\ManySmallTask\bin\Debug\net5.0\ManySmallTask.exe
+C:\Users\Danil\source\resources\ManySmallTask\ManySmallTask\bin\Debug\net5.0\ManySmallTask.deps.json
+C:\Users\Danil\source\resources\ManySmallTask\ManySmallTask\bin\Debug\net5.0\ManySmallTask.runtimeconfig.json
+C:\Users\Danil\source\resources\ManySmallTask\ManySmallTask\bin\Debug\net5.0\ManySmallTask.runtimeconfig.dev.json
+C:\Users\Danil\source\resources\ManySmallTask\ManySmallTask\bin\Debug\net5.0\ManySmallTask.dll
+C:\Users\Danil\source\resources\ManySmallTask\ManySmallTask\bin\Debug\net5.0\ref\ManySmallTask.dll
+C:\Users\Danil\source\resources\ManySmallTask\ManySmallTask\bin\Debug\net5.0\ManySmallTask.pdb
+C:\Users\Danil\source\resources\ManySmallTask\ManySmallTask\obj\Debug\net5.0\ManySmallTask.csprojAssemblyReference.cache
+C:\Users\Danil\source\resources\ManySmallTask\ManySmallTask\obj\Debug\net5.0\ManySmallTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danil\source\resources\ManySmallTask\ManySmallTask\obj\Debug\net5.0\ManySmallTask.AssemblyInfoInputs.cache
+C:\Users\Danil\source\resources\ManySmallTask\ManySmallTask\obj\Debug\net5.0\ManySmallTask.AssemblyInfo.cs
+C:\Users\Danil\source\resources\ManySmallTask\ManySmallTask\obj\Debug\net5.0\ManySmallTask.csproj.CoreCompileInputs.cache
+C:\Users\Danil\source\resources\ManySmallTask\ManySmallTask\obj\Debug\net5.0\ManySmallTask.dll
+C:\Users\Danil\source\resources\ManySmallTask\ManySmallTask\obj\Debug\net5.0\ref\ManySmallTask.dll
+C:\Users\Danil\source\resources\ManySmallTask\ManySmallTask\obj\Debug\net5.0\ManySmallTask.pdb
+C:\Users\Danil\source\resources\ManySmallTask\ManySmallTask\obj\Debug\net5.0\ManySmallTask.genruntimeconfig.cache

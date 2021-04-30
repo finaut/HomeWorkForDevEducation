@@ -1,0 +1,30 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=35b658fc_002D01f6_002D44c6_002Dad30_002D27cd8860b85d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestCount #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::EB98F17C-7FE2-4BBA-8F72-AE0EA30FA8DE::.NETFramework,Version=v4.8::TestMyArrayList.Tests.TestCount&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::EB98F17C-7FE2-4BBA-8F72-AE0EA30FA8DE::.NETFramework,Version=v4.8::TestMyArrayList.Tests.TestAdd&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=615fc4ec_002Dc8e5_002D455a_002Dac3c_002Db1666cdfd229/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestCount" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::EB98F17C-7FE2-4BBA-8F72-AE0EA30FA8DE::.NETFramework,Version=v4.8::TestMyArrayList.Tests.TestSyncRoot&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::EB98F17C-7FE2-4BBA-8F72-AE0EA30FA8DE::.NETFramework,Version=v4.8::TestMyArrayList.Tests.TestCount&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::EB98F17C-7FE2-4BBA-8F72-AE0EA30FA8DE::.NETFramework,Version=v4.8::TestMyArrayList.Tests.TestAdd&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::EB98F17C-7FE2-4BBA-8F72-AE0EA30FA8DE::.NETFramework,Version=v4.8::TestMyArrayList.Tests.TestIndexOf&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=999a4b43_002Db84d_002D4894_002D880b_002D37f5be698763/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestRemoveAt #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::EB98F17C-7FE2-4BBA-8F72-AE0EA30FA8DE::.NETFramework,Version=v4.8::TestMyArrayList.Tests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9a5b5f18_002D892f_002D4bf0_002D8f6b_002Df428640dd578/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestAdd" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::EB98F17C-7FE2-4BBA-8F72-AE0EA30FA8DE::.NETFramework,Version=v4.8::TestMyArrayList.Tests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d7cb0a39_002Da552_002D4666_002Dadc2_002D46a19d16c027/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestRemoveAt" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::EB98F17C-7FE2-4BBA-8F72-AE0EA30FA8DE::.NETFramework,Version=v4.8::TestMyArrayList.Tests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

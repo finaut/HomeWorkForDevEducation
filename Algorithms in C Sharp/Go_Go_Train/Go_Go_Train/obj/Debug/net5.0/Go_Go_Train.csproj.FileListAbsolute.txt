@@ -1,0 +1,16 @@
+C:\Users\Danil\source\repos\Go_Go_Train\Go_Go_Train\obj\Debug\net5.0\Go_Go_Train.csprojAssemblyReference.cache
+C:\Users\Danil\source\repos\Go_Go_Train\Go_Go_Train\obj\Debug\net5.0\Go_Go_Train.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danil\source\repos\Go_Go_Train\Go_Go_Train\obj\Debug\net5.0\Go_Go_Train.AssemblyInfoInputs.cache
+C:\Users\Danil\source\repos\Go_Go_Train\Go_Go_Train\obj\Debug\net5.0\Go_Go_Train.AssemblyInfo.cs
+C:\Users\Danil\source\repos\Go_Go_Train\Go_Go_Train\obj\Debug\net5.0\Go_Go_Train.csproj.CoreCompileInputs.cache
+C:\Users\Danil\source\repos\Go_Go_Train\Go_Go_Train\bin\Debug\net5.0\Go_Go_Train.exe
+C:\Users\Danil\source\repos\Go_Go_Train\Go_Go_Train\bin\Debug\net5.0\Go_Go_Train.deps.json
+C:\Users\Danil\source\repos\Go_Go_Train\Go_Go_Train\bin\Debug\net5.0\Go_Go_Train.runtimeconfig.json
+C:\Users\Danil\source\repos\Go_Go_Train\Go_Go_Train\bin\Debug\net5.0\Go_Go_Train.runtimeconfig.dev.json
+C:\Users\Danil\source\repos\Go_Go_Train\Go_Go_Train\bin\Debug\net5.0\Go_Go_Train.dll
+C:\Users\Danil\source\repos\Go_Go_Train\Go_Go_Train\bin\Debug\net5.0\ref\Go_Go_Train.dll
+C:\Users\Danil\source\repos\Go_Go_Train\Go_Go_Train\bin\Debug\net5.0\Go_Go_Train.pdb
+C:\Users\Danil\source\repos\Go_Go_Train\Go_Go_Train\obj\Debug\net5.0\Go_Go_Train.dll
+C:\Users\Danil\source\repos\Go_Go_Train\Go_Go_Train\obj\Debug\net5.0\ref\Go_Go_Train.dll
+C:\Users\Danil\source\repos\Go_Go_Train\Go_Go_Train\obj\Debug\net5.0\Go_Go_Train.pdb
+C:\Users\Danil\source\repos\Go_Go_Train\Go_Go_Train\obj\Debug\net5.0\Go_Go_Train.genruntimeconfig.cache

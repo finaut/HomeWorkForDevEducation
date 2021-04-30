@@ -1,0 +1,9 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=642eb6ad_002D504b_002D4de9_002D9f5d_002D56e4053804b2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TeacherTestNull" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::BF3F3D5B-2CD5-4D24-BA41-6B576E2EA1EF::.NETFramework,Version=v4.8::TestMarkService.Tests.TeacherTestNull&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::BF3F3D5B-2CD5-4D24-BA41-6B576E2EA1EF::.NETFramework,Version=v4.8::TestMarkService.Tests.TeacherTestGetAverage&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::BF3F3D5B-2CD5-4D24-BA41-6B576E2EA1EF::.NETFramework,Version=v4.8::TestMarkService.Tests.TeacherTestGetLastMark&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::BF3F3D5B-2CD5-4D24-BA41-6B576E2EA1EF::.NETFramework,Version=v4.8::TestMarkService.Tests.StudentTestGet&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

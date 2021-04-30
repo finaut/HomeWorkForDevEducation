@@ -1,0 +1,16 @@
+C:\Users\Danil\source\repos\MultiplicationOfKaratsuba\MultiplicationOfKaratsuba\bin\Debug\net5.0\MultiplicationOfKaratsuba.exe
+C:\Users\Danil\source\repos\MultiplicationOfKaratsuba\MultiplicationOfKaratsuba\bin\Debug\net5.0\MultiplicationOfKaratsuba.deps.json
+C:\Users\Danil\source\repos\MultiplicationOfKaratsuba\MultiplicationOfKaratsuba\bin\Debug\net5.0\MultiplicationOfKaratsuba.runtimeconfig.json
+C:\Users\Danil\source\repos\MultiplicationOfKaratsuba\MultiplicationOfKaratsuba\bin\Debug\net5.0\MultiplicationOfKaratsuba.runtimeconfig.dev.json
+C:\Users\Danil\source\repos\MultiplicationOfKaratsuba\MultiplicationOfKaratsuba\bin\Debug\net5.0\MultiplicationOfKaratsuba.dll
+C:\Users\Danil\source\repos\MultiplicationOfKaratsuba\MultiplicationOfKaratsuba\bin\Debug\net5.0\ref\MultiplicationOfKaratsuba.dll
+C:\Users\Danil\source\repos\MultiplicationOfKaratsuba\MultiplicationOfKaratsuba\bin\Debug\net5.0\MultiplicationOfKaratsuba.pdb
+C:\Users\Danil\source\repos\MultiplicationOfKaratsuba\MultiplicationOfKaratsuba\obj\Debug\net5.0\MultiplicationOfKaratsuba.csprojAssemblyReference.cache
+C:\Users\Danil\source\repos\MultiplicationOfKaratsuba\MultiplicationOfKaratsuba\obj\Debug\net5.0\MultiplicationOfKaratsuba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danil\source\repos\MultiplicationOfKaratsuba\MultiplicationOfKaratsuba\obj\Debug\net5.0\MultiplicationOfKaratsuba.AssemblyInfoInputs.cache
+C:\Users\Danil\source\repos\MultiplicationOfKaratsuba\MultiplicationOfKaratsuba\obj\Debug\net5.0\MultiplicationOfKaratsuba.AssemblyInfo.cs
+C:\Users\Danil\source\repos\MultiplicationOfKaratsuba\MultiplicationOfKaratsuba\obj\Debug\net5.0\MultiplicationOfKaratsuba.csproj.CoreCompileInputs.cache
+C:\Users\Danil\source\repos\MultiplicationOfKaratsuba\MultiplicationOfKaratsuba\obj\Debug\net5.0\MultiplicationOfKaratsuba.dll
+C:\Users\Danil\source\repos\MultiplicationOfKaratsuba\MultiplicationOfKaratsuba\obj\Debug\net5.0\ref\MultiplicationOfKaratsuba.dll
+C:\Users\Danil\source\repos\MultiplicationOfKaratsuba\MultiplicationOfKaratsuba\obj\Debug\net5.0\MultiplicationOfKaratsuba.pdb
+C:\Users\Danil\source\repos\MultiplicationOfKaratsuba\MultiplicationOfKaratsuba\obj\Debug\net5.0\MultiplicationOfKaratsuba.genruntimeconfig.cache

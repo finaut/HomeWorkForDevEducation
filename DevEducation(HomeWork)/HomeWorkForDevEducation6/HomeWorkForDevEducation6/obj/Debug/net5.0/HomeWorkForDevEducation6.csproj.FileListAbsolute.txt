@@ -1,0 +1,16 @@
+C:\Users\Danil\source\resources\DevEducation(HomeWork)\HomeWorkForDevEducation6\HomeWorkForDevEducation6\obj\Debug\net5.0\HomeWorkForDevEducation6.csprojAssemblyReference.cache
+C:\Users\Danil\source\resources\DevEducation(HomeWork)\HomeWorkForDevEducation6\HomeWorkForDevEducation6\obj\Debug\net5.0\HomeWorkForDevEducation6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danil\source\resources\DevEducation(HomeWork)\HomeWorkForDevEducation6\HomeWorkForDevEducation6\obj\Debug\net5.0\HomeWorkForDevEducation6.AssemblyInfoInputs.cache
+C:\Users\Danil\source\resources\DevEducation(HomeWork)\HomeWorkForDevEducation6\HomeWorkForDevEducation6\obj\Debug\net5.0\HomeWorkForDevEducation6.AssemblyInfo.cs
+C:\Users\Danil\source\resources\DevEducation(HomeWork)\HomeWorkForDevEducation6\HomeWorkForDevEducation6\obj\Debug\net5.0\HomeWorkForDevEducation6.csproj.CoreCompileInputs.cache
+C:\Users\Danil\source\resources\DevEducation(HomeWork)\HomeWorkForDevEducation6\HomeWorkForDevEducation6\bin\Debug\net5.0\HomeWorkForDevEducation6.exe
+C:\Users\Danil\source\resources\DevEducation(HomeWork)\HomeWorkForDevEducation6\HomeWorkForDevEducation6\bin\Debug\net5.0\HomeWorkForDevEducation6.deps.json
+C:\Users\Danil\source\resources\DevEducation(HomeWork)\HomeWorkForDevEducation6\HomeWorkForDevEducation6\bin\Debug\net5.0\HomeWorkForDevEducation6.runtimeconfig.json
+C:\Users\Danil\source\resources\DevEducation(HomeWork)\HomeWorkForDevEducation6\HomeWorkForDevEducation6\bin\Debug\net5.0\HomeWorkForDevEducation6.runtimeconfig.dev.json
+C:\Users\Danil\source\resources\DevEducation(HomeWork)\HomeWorkForDevEducation6\HomeWorkForDevEducation6\bin\Debug\net5.0\HomeWorkForDevEducation6.dll
+C:\Users\Danil\source\resources\DevEducation(HomeWork)\HomeWorkForDevEducation6\HomeWorkForDevEducation6\bin\Debug\net5.0\ref\HomeWorkForDevEducation6.dll
+C:\Users\Danil\source\resources\DevEducation(HomeWork)\HomeWorkForDevEducation6\HomeWorkForDevEducation6\bin\Debug\net5.0\HomeWorkForDevEducation6.pdb
+C:\Users\Danil\source\resources\DevEducation(HomeWork)\HomeWorkForDevEducation6\HomeWorkForDevEducation6\obj\Debug\net5.0\HomeWorkForDevEducation6.dll
+C:\Users\Danil\source\resources\DevEducation(HomeWork)\HomeWorkForDevEducation6\HomeWorkForDevEducation6\obj\Debug\net5.0\ref\HomeWorkForDevEducation6.dll
+C:\Users\Danil\source\resources\DevEducation(HomeWork)\HomeWorkForDevEducation6\HomeWorkForDevEducation6\obj\Debug\net5.0\HomeWorkForDevEducation6.pdb
+C:\Users\Danil\source\resources\DevEducation(HomeWork)\HomeWorkForDevEducation6\HomeWorkForDevEducation6\obj\Debug\net5.0\HomeWorkForDevEducation6.genruntimeconfig.cache

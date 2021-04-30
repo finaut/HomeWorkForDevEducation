@@ -1,0 +1,16 @@
+C:\Users\Danil\source\repos\HomeWorkForDevEducation\HomeWorkForDevEducation\bin\Debug\net5.0\HomeWorkForDevEducation.exe
+C:\Users\Danil\source\repos\HomeWorkForDevEducation\HomeWorkForDevEducation\bin\Debug\net5.0\HomeWorkForDevEducation.deps.json
+C:\Users\Danil\source\repos\HomeWorkForDevEducation\HomeWorkForDevEducation\bin\Debug\net5.0\HomeWorkForDevEducation.runtimeconfig.json
+C:\Users\Danil\source\repos\HomeWorkForDevEducation\HomeWorkForDevEducation\bin\Debug\net5.0\HomeWorkForDevEducation.runtimeconfig.dev.json
+C:\Users\Danil\source\repos\HomeWorkForDevEducation\HomeWorkForDevEducation\bin\Debug\net5.0\HomeWorkForDevEducation.dll
+C:\Users\Danil\source\repos\HomeWorkForDevEducation\HomeWorkForDevEducation\bin\Debug\net5.0\ref\HomeWorkForDevEducation.dll
+C:\Users\Danil\source\repos\HomeWorkForDevEducation\HomeWorkForDevEducation\bin\Debug\net5.0\HomeWorkForDevEducation.pdb
+C:\Users\Danil\source\repos\HomeWorkForDevEducation\HomeWorkForDevEducation\obj\Debug\net5.0\HomeWorkForDevEducation.csprojAssemblyReference.cache
+C:\Users\Danil\source\repos\HomeWorkForDevEducation\HomeWorkForDevEducation\obj\Debug\net5.0\HomeWorkForDevEducation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danil\source\repos\HomeWorkForDevEducation\HomeWorkForDevEducation\obj\Debug\net5.0\HomeWorkForDevEducation.AssemblyInfoInputs.cache
+C:\Users\Danil\source\repos\HomeWorkForDevEducation\HomeWorkForDevEducation\obj\Debug\net5.0\HomeWorkForDevEducation.AssemblyInfo.cs
+C:\Users\Danil\source\repos\HomeWorkForDevEducation\HomeWorkForDevEducation\obj\Debug\net5.0\HomeWorkForDevEducation.csproj.CoreCompileInputs.cache
+C:\Users\Danil\source\repos\HomeWorkForDevEducation\HomeWorkForDevEducation\obj\Debug\net5.0\HomeWorkForDevEducation.dll
+C:\Users\Danil\source\repos\HomeWorkForDevEducation\HomeWorkForDevEducation\obj\Debug\net5.0\ref\HomeWorkForDevEducation.dll
+C:\Users\Danil\source\repos\HomeWorkForDevEducation\HomeWorkForDevEducation\obj\Debug\net5.0\HomeWorkForDevEducation.pdb
+C:\Users\Danil\source\repos\HomeWorkForDevEducation\HomeWorkForDevEducation\obj\Debug\net5.0\HomeWorkForDevEducation.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\LessonMoq\LessonMoq\bin\Debug\netcoreapp3.0\LessonMoq.exe
+C:\Users\User\source\repos\LessonMoq\LessonMoq\bin\Debug\netcoreapp3.0\LessonMoq.deps.json
+C:\Users\User\source\repos\LessonMoq\LessonMoq\bin\Debug\netcoreapp3.0\LessonMoq.runtimeconfig.json
+C:\Users\User\source\repos\LessonMoq\LessonMoq\bin\Debug\netcoreapp3.0\LessonMoq.runtimeconfig.dev.json
+C:\Users\User\source\repos\LessonMoq\LessonMoq\bin\Debug\netcoreapp3.0\LessonMoq.dll
+C:\Users\User\source\repos\LessonMoq\LessonMoq\bin\Debug\netcoreapp3.0\LessonMoq.pdb
+C:\Users\User\source\repos\LessonMoq\LessonMoq\obj\Debug\netcoreapp3.0\LessonMoq.csprojAssemblyReference.cache
+C:\Users\User\source\repos\LessonMoq\LessonMoq\obj\Debug\netcoreapp3.0\LessonMoq.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LessonMoq\LessonMoq\obj\Debug\netcoreapp3.0\LessonMoq.AssemblyInfo.cs
+C:\Users\User\source\repos\LessonMoq\LessonMoq\obj\Debug\netcoreapp3.0\LessonMoq.dll
+C:\Users\User\source\repos\LessonMoq\LessonMoq\obj\Debug\netcoreapp3.0\LessonMoq.pdb

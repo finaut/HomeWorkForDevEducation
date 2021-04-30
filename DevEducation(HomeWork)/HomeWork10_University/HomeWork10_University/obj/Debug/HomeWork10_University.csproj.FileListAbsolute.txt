@@ -1,0 +1,6 @@
+/home/shaitan/RiderProjects/S_Sharp/DevEducation(HomeWork)/HomeWork10_University/HomeWork10_University/obj/Debug/HomeWork10_University.csprojAssemblyReference.cache
+/home/shaitan/RiderProjects/S_Sharp/DevEducation(HomeWork)/HomeWork10_University/HomeWork10_University/obj/Debug/HomeWork10_University.csproj.CoreCompileInputs.cache
+/home/shaitan/RiderProjects/S_Sharp/DevEducation(HomeWork)/HomeWork10_University/HomeWork10_University/bin/Debug/HomeWork10_University.exe
+/home/shaitan/RiderProjects/S_Sharp/DevEducation(HomeWork)/HomeWork10_University/HomeWork10_University/bin/Debug/HomeWork10_University.pdb
+/home/shaitan/RiderProjects/S_Sharp/DevEducation(HomeWork)/HomeWork10_University/HomeWork10_University/obj/Debug/HomeWork10_University.exe
+/home/shaitan/RiderProjects/S_Sharp/DevEducation(HomeWork)/HomeWork10_University/HomeWork10_University/obj/Debug/HomeWork10_University.pdb

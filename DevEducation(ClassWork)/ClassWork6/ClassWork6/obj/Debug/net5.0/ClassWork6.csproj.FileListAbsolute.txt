@@ -1,0 +1,16 @@
+C:\Users\Danil\source\resources\DevEducation(ClassWork)\ClassWork6\ClassWork6\bin\Debug\net5.0\ClassWork6.exe
+C:\Users\Danil\source\resources\DevEducation(ClassWork)\ClassWork6\ClassWork6\bin\Debug\net5.0\ClassWork6.deps.json
+C:\Users\Danil\source\resources\DevEducation(ClassWork)\ClassWork6\ClassWork6\bin\Debug\net5.0\ClassWork6.runtimeconfig.json
+C:\Users\Danil\source\resources\DevEducation(ClassWork)\ClassWork6\ClassWork6\bin\Debug\net5.0\ClassWork6.runtimeconfig.dev.json
+C:\Users\Danil\source\resources\DevEducation(ClassWork)\ClassWork6\ClassWork6\bin\Debug\net5.0\ClassWork6.dll
+C:\Users\Danil\source\resources\DevEducation(ClassWork)\ClassWork6\ClassWork6\bin\Debug\net5.0\ref\ClassWork6.dll
+C:\Users\Danil\source\resources\DevEducation(ClassWork)\ClassWork6\ClassWork6\bin\Debug\net5.0\ClassWork6.pdb
+C:\Users\Danil\source\resources\DevEducation(ClassWork)\ClassWork6\ClassWork6\obj\Debug\net5.0\ClassWork6.csprojAssemblyReference.cache
+C:\Users\Danil\source\resources\DevEducation(ClassWork)\ClassWork6\ClassWork6\obj\Debug\net5.0\ClassWork6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danil\source\resources\DevEducation(ClassWork)\ClassWork6\ClassWork6\obj\Debug\net5.0\ClassWork6.AssemblyInfoInputs.cache
+C:\Users\Danil\source\resources\DevEducation(ClassWork)\ClassWork6\ClassWork6\obj\Debug\net5.0\ClassWork6.AssemblyInfo.cs
+C:\Users\Danil\source\resources\DevEducation(ClassWork)\ClassWork6\ClassWork6\obj\Debug\net5.0\ClassWork6.csproj.CoreCompileInputs.cache
+C:\Users\Danil\source\resources\DevEducation(ClassWork)\ClassWork6\ClassWork6\obj\Debug\net5.0\ClassWork6.dll
+C:\Users\Danil\source\resources\DevEducation(ClassWork)\ClassWork6\ClassWork6\obj\Debug\net5.0\ref\ClassWork6.dll
+C:\Users\Danil\source\resources\DevEducation(ClassWork)\ClassWork6\ClassWork6\obj\Debug\net5.0\ClassWork6.pdb
+C:\Users\Danil\source\resources\DevEducation(ClassWork)\ClassWork6\ClassWork6\obj\Debug\net5.0\ClassWork6.genruntimeconfig.cache

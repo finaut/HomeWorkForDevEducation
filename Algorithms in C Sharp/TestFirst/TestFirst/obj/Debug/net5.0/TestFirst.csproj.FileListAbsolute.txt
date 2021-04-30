@@ -1,0 +1,16 @@
+C:\Users\Danil\source\repos\TestFirst\TestFirst\bin\Debug\net5.0\TestFirst.exe
+C:\Users\Danil\source\repos\TestFirst\TestFirst\bin\Debug\net5.0\TestFirst.deps.json
+C:\Users\Danil\source\repos\TestFirst\TestFirst\bin\Debug\net5.0\TestFirst.runtimeconfig.json
+C:\Users\Danil\source\repos\TestFirst\TestFirst\bin\Debug\net5.0\TestFirst.runtimeconfig.dev.json
+C:\Users\Danil\source\repos\TestFirst\TestFirst\bin\Debug\net5.0\TestFirst.dll
+C:\Users\Danil\source\repos\TestFirst\TestFirst\bin\Debug\net5.0\ref\TestFirst.dll
+C:\Users\Danil\source\repos\TestFirst\TestFirst\bin\Debug\net5.0\TestFirst.pdb
+C:\Users\Danil\source\repos\TestFirst\TestFirst\obj\Debug\net5.0\TestFirst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danil\source\repos\TestFirst\TestFirst\obj\Debug\net5.0\TestFirst.AssemblyInfoInputs.cache
+C:\Users\Danil\source\repos\TestFirst\TestFirst\obj\Debug\net5.0\TestFirst.AssemblyInfo.cs
+C:\Users\Danil\source\repos\TestFirst\TestFirst\obj\Debug\net5.0\TestFirst.csproj.CoreCompileInputs.cache
+C:\Users\Danil\source\repos\TestFirst\TestFirst\obj\Debug\net5.0\TestFirst.dll
+C:\Users\Danil\source\repos\TestFirst\TestFirst\obj\Debug\net5.0\ref\TestFirst.dll
+C:\Users\Danil\source\repos\TestFirst\TestFirst\obj\Debug\net5.0\TestFirst.pdb
+C:\Users\Danil\source\repos\TestFirst\TestFirst\obj\Debug\net5.0\TestFirst.genruntimeconfig.cache
+C:\Users\Danil\source\repos\TestFirst\TestFirst\obj\Debug\net5.0\TestFirst.csprojAssemblyReference.cache

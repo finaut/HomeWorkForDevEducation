@@ -1,0 +1,16 @@
+C:\Users\Danil\source\resources\DZ_cycles\DZ_cycles\bin\Debug\net5.0\DZ_cycles.exe
+C:\Users\Danil\source\resources\DZ_cycles\DZ_cycles\bin\Debug\net5.0\DZ_cycles.deps.json
+C:\Users\Danil\source\resources\DZ_cycles\DZ_cycles\bin\Debug\net5.0\DZ_cycles.runtimeconfig.json
+C:\Users\Danil\source\resources\DZ_cycles\DZ_cycles\bin\Debug\net5.0\DZ_cycles.runtimeconfig.dev.json
+C:\Users\Danil\source\resources\DZ_cycles\DZ_cycles\bin\Debug\net5.0\DZ_cycles.dll
+C:\Users\Danil\source\resources\DZ_cycles\DZ_cycles\bin\Debug\net5.0\ref\DZ_cycles.dll
+C:\Users\Danil\source\resources\DZ_cycles\DZ_cycles\bin\Debug\net5.0\DZ_cycles.pdb
+C:\Users\Danil\source\resources\DZ_cycles\DZ_cycles\obj\Debug\net5.0\DZ_cycles.csprojAssemblyReference.cache
+C:\Users\Danil\source\resources\DZ_cycles\DZ_cycles\obj\Debug\net5.0\DZ_cycles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danil\source\resources\DZ_cycles\DZ_cycles\obj\Debug\net5.0\DZ_cycles.AssemblyInfoInputs.cache
+C:\Users\Danil\source\resources\DZ_cycles\DZ_cycles\obj\Debug\net5.0\DZ_cycles.AssemblyInfo.cs
+C:\Users\Danil\source\resources\DZ_cycles\DZ_cycles\obj\Debug\net5.0\DZ_cycles.csproj.CoreCompileInputs.cache
+C:\Users\Danil\source\resources\DZ_cycles\DZ_cycles\obj\Debug\net5.0\DZ_cycles.dll
+C:\Users\Danil\source\resources\DZ_cycles\DZ_cycles\obj\Debug\net5.0\ref\DZ_cycles.dll
+C:\Users\Danil\source\resources\DZ_cycles\DZ_cycles\obj\Debug\net5.0\DZ_cycles.pdb
+C:\Users\Danil\source\resources\DZ_cycles\DZ_cycles\obj\Debug\net5.0\DZ_cycles.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Danil\source\repos\ClassWork2\ClassWork2\bin\Debug\net5.0\ClassWork2.exe
+C:\Users\Danil\source\repos\ClassWork2\ClassWork2\bin\Debug\net5.0\ClassWork2.deps.json
+C:\Users\Danil\source\repos\ClassWork2\ClassWork2\bin\Debug\net5.0\ClassWork2.runtimeconfig.json
+C:\Users\Danil\source\repos\ClassWork2\ClassWork2\bin\Debug\net5.0\ClassWork2.runtimeconfig.dev.json
+C:\Users\Danil\source\repos\ClassWork2\ClassWork2\bin\Debug\net5.0\ClassWork2.dll
+C:\Users\Danil\source\repos\ClassWork2\ClassWork2\bin\Debug\net5.0\ref\ClassWork2.dll
+C:\Users\Danil\source\repos\ClassWork2\ClassWork2\bin\Debug\net5.0\ClassWork2.pdb
+C:\Users\Danil\source\repos\ClassWork2\ClassWork2\obj\Debug\net5.0\ClassWork2.csprojAssemblyReference.cache
+C:\Users\Danil\source\repos\ClassWork2\ClassWork2\obj\Debug\net5.0\ClassWork2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danil\source\repos\ClassWork2\ClassWork2\obj\Debug\net5.0\ClassWork2.AssemblyInfoInputs.cache
+C:\Users\Danil\source\repos\ClassWork2\ClassWork2\obj\Debug\net5.0\ClassWork2.AssemblyInfo.cs
+C:\Users\Danil\source\repos\ClassWork2\ClassWork2\obj\Debug\net5.0\ClassWork2.csproj.CoreCompileInputs.cache
+C:\Users\Danil\source\repos\ClassWork2\ClassWork2\obj\Debug\net5.0\ClassWork2.dll
+C:\Users\Danil\source\repos\ClassWork2\ClassWork2\obj\Debug\net5.0\ref\ClassWork2.dll
+C:\Users\Danil\source\repos\ClassWork2\ClassWork2\obj\Debug\net5.0\ClassWork2.pdb
+C:\Users\Danil\source\repos\ClassWork2\ClassWork2\obj\Debug\net5.0\ClassWork2.genruntimeconfig.cache

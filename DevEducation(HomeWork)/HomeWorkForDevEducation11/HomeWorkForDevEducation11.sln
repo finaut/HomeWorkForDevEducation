@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWorkForDevEducation11", "HomeWorkForDevEducation11\HomeWorkForDevEducation11.csproj", "{9529DD69-7396-424B-AC51-7F7BA54D7C65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMarkService", "TestMarkService\TestMarkService.csproj", "{BF3F3D5B-2CD5-4D24-BA41-6B576E2EA1EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9529DD69-7396-424B-AC51-7F7BA54D7C65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9529DD69-7396-424B-AC51-7F7BA54D7C65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9529DD69-7396-424B-AC51-7F7BA54D7C65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9529DD69-7396-424B-AC51-7F7BA54D7C65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF3F3D5B-2CD5-4D24-BA41-6B576E2EA1EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF3F3D5B-2CD5-4D24-BA41-6B576E2EA1EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF3F3D5B-2CD5-4D24-BA41-6B576E2EA1EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF3F3D5B-2CD5-4D24-BA41-6B576E2EA1EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

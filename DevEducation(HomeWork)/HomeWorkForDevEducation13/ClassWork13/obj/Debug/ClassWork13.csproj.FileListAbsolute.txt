@@ -1,0 +1,12 @@
+/home/shaitan/RiderProjects/S_Sharp/DevEducation(HomeWork)/ClassWork13/ClassWork13/bin/Debug/ClassWork13.exe
+/home/shaitan/RiderProjects/S_Sharp/DevEducation(HomeWork)/ClassWork13/ClassWork13/bin/Debug/ClassWork13.pdb
+/home/shaitan/RiderProjects/S_Sharp/DevEducation(HomeWork)/ClassWork13/ClassWork13/obj/Debug/ClassWork13.csprojAssemblyReference.cache
+/home/shaitan/RiderProjects/S_Sharp/DevEducation(HomeWork)/ClassWork13/ClassWork13/obj/Debug/ClassWork13.csproj.CoreCompileInputs.cache
+/home/shaitan/RiderProjects/S_Sharp/DevEducation(HomeWork)/ClassWork13/ClassWork13/obj/Debug/ClassWork13.exe
+/home/shaitan/RiderProjects/S_Sharp/DevEducation(HomeWork)/ClassWork13/ClassWork13/obj/Debug/ClassWork13.pdb
+/home/shaitan/RiderProjects/S_Sharp/DevEducation(HomeWork)/HomeWorkForDevEducation13/ClassWork13/bin/Debug/ClassWork13.exe
+/home/shaitan/RiderProjects/S_Sharp/DevEducation(HomeWork)/HomeWorkForDevEducation13/ClassWork13/bin/Debug/ClassWork13.pdb
+/home/shaitan/RiderProjects/S_Sharp/DevEducation(HomeWork)/HomeWorkForDevEducation13/ClassWork13/obj/Debug/ClassWork13.csprojAssemblyReference.cache
+/home/shaitan/RiderProjects/S_Sharp/DevEducation(HomeWork)/HomeWorkForDevEducation13/ClassWork13/obj/Debug/ClassWork13.csproj.CoreCompileInputs.cache
+/home/shaitan/RiderProjects/S_Sharp/DevEducation(HomeWork)/HomeWorkForDevEducation13/ClassWork13/obj/Debug/ClassWork13.exe
+/home/shaitan/RiderProjects/S_Sharp/DevEducation(HomeWork)/HomeWorkForDevEducation13/ClassWork13/obj/Debug/ClassWork13.pdb

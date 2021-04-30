@@ -1,0 +1,16 @@
+C:\Users\Danil\source\repos\enum_example\enum_example\obj\Debug\net5.0\enum_example.csprojAssemblyReference.cache
+C:\Users\Danil\source\repos\enum_example\enum_example\obj\Debug\net5.0\enum_example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danil\source\repos\enum_example\enum_example\obj\Debug\net5.0\enum_example.AssemblyInfoInputs.cache
+C:\Users\Danil\source\repos\enum_example\enum_example\obj\Debug\net5.0\enum_example.AssemblyInfo.cs
+C:\Users\Danil\source\repos\enum_example\enum_example\obj\Debug\net5.0\enum_example.csproj.CoreCompileInputs.cache
+C:\Users\Danil\source\repos\enum_example\enum_example\bin\Debug\net5.0\enum_example.exe
+C:\Users\Danil\source\repos\enum_example\enum_example\bin\Debug\net5.0\enum_example.deps.json
+C:\Users\Danil\source\repos\enum_example\enum_example\bin\Debug\net5.0\enum_example.runtimeconfig.json
+C:\Users\Danil\source\repos\enum_example\enum_example\bin\Debug\net5.0\enum_example.runtimeconfig.dev.json
+C:\Users\Danil\source\repos\enum_example\enum_example\bin\Debug\net5.0\enum_example.dll
+C:\Users\Danil\source\repos\enum_example\enum_example\bin\Debug\net5.0\ref\enum_example.dll
+C:\Users\Danil\source\repos\enum_example\enum_example\bin\Debug\net5.0\enum_example.pdb
+C:\Users\Danil\source\repos\enum_example\enum_example\obj\Debug\net5.0\enum_example.dll
+C:\Users\Danil\source\repos\enum_example\enum_example\obj\Debug\net5.0\ref\enum_example.dll
+C:\Users\Danil\source\repos\enum_example\enum_example\obj\Debug\net5.0\enum_example.pdb
+C:\Users\Danil\source\repos\enum_example\enum_example\obj\Debug\net5.0\enum_example.genruntimeconfig.cache

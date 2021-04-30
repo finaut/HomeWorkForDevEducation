@@ -1,0 +1,16 @@
+C:\Users\Danil\source\repos\cnock_cnock\cnock_cnock\bin\Debug\net5.0\cnock_cnock.exe
+C:\Users\Danil\source\repos\cnock_cnock\cnock_cnock\bin\Debug\net5.0\cnock_cnock.deps.json
+C:\Users\Danil\source\repos\cnock_cnock\cnock_cnock\bin\Debug\net5.0\cnock_cnock.runtimeconfig.json
+C:\Users\Danil\source\repos\cnock_cnock\cnock_cnock\bin\Debug\net5.0\cnock_cnock.runtimeconfig.dev.json
+C:\Users\Danil\source\repos\cnock_cnock\cnock_cnock\bin\Debug\net5.0\cnock_cnock.dll
+C:\Users\Danil\source\repos\cnock_cnock\cnock_cnock\bin\Debug\net5.0\ref\cnock_cnock.dll
+C:\Users\Danil\source\repos\cnock_cnock\cnock_cnock\bin\Debug\net5.0\cnock_cnock.pdb
+C:\Users\Danil\source\repos\cnock_cnock\cnock_cnock\obj\Debug\net5.0\cnock_cnock.csprojAssemblyReference.cache
+C:\Users\Danil\source\repos\cnock_cnock\cnock_cnock\obj\Debug\net5.0\cnock_cnock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danil\source\repos\cnock_cnock\cnock_cnock\obj\Debug\net5.0\cnock_cnock.AssemblyInfoInputs.cache
+C:\Users\Danil\source\repos\cnock_cnock\cnock_cnock\obj\Debug\net5.0\cnock_cnock.AssemblyInfo.cs
+C:\Users\Danil\source\repos\cnock_cnock\cnock_cnock\obj\Debug\net5.0\cnock_cnock.csproj.CoreCompileInputs.cache
+C:\Users\Danil\source\repos\cnock_cnock\cnock_cnock\obj\Debug\net5.0\cnock_cnock.dll
+C:\Users\Danil\source\repos\cnock_cnock\cnock_cnock\obj\Debug\net5.0\ref\cnock_cnock.dll
+C:\Users\Danil\source\repos\cnock_cnock\cnock_cnock\obj\Debug\net5.0\cnock_cnock.pdb
+C:\Users\Danil\source\repos\cnock_cnock\cnock_cnock\obj\Debug\net5.0\cnock_cnock.genruntimeconfig.cache
